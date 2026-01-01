@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓 Final Year B.Tech student specializing in Data Science & AI/ML<br>🤖 Passionate about building intelligent systems, data-driven applications, and AI-powered products<br>💡 Strong interest in Machine Learning, Deep Learning, and Backend Development<br>🛠️ Hands-on experience with Python, Java, SQL, ML frameworks, and system design concepts<br>🚀 Currently focused on real-world projects, scalable architectures, and industry-ready skills<br>📈 Constantly learning, experimenting, and improving — one project at a time<br><br>🔍 Looking for: AI/ML Internships • Data Science Roles • Software Engineering Opportunities
+🎓 Final Year B.Tech student specializing in Computer Science (Data Science)<br>☕ Backend-focused developer with strong interest in Java, Spring Boot, and scalable backend systems<br>🧩 Passionate about designing RESTful APIs, secure authentication systems, and clean service-layer architectures<br>🛠️ Hands-on experience with Java, Spring Boot, SQL (PostgreSQL/MySQL), REST APIs, JWT, and Git<br>🏗️ Familiar with backend system design concepts including layered architecture, database modeling, and API security<br>🚀 Actively building real-world backend projects such as movie ticket booking systems, e-commerce platforms, and role-based applications<br>📈 Focused on writing clean, maintainable code and becoming industry-ready through continuous learning<br>
+<br><br>🔍 Looking for: Java Backend Engineer • Backend Developer • Software Engineer (Fresher/Intern)
 
 
 ## 🌐 Socials:
