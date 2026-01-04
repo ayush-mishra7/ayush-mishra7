@@ -1,5 +1,12 @@
 # 💫 About Me:
-🎓 Final Year B.Tech student majoring in Computer Science<br>☕ Backend-focused developer with strong interest in Java, Spring Boot, and scalable backend systems<br>🧩 Passionate about designing RESTful APIs, secure authentication systems, and clean service-layer architectures<br>🛠️ Hands-on experience with Java, Spring Boot, SQL (PostgreSQL/MySQL), REST APIs, JWT, and Git<br>🏗️ Familiar with backend system design concepts including layered architecture, database modeling, and API security<br>🚀 Actively building real-world backend projects such as movie ticket booking systems, e-commerce platforms, and role-based applications<br>📈 Focused on writing clean, maintainable code and becoming industry-ready through continuous learning<br><br><br>🔍 Looking for: Java Backend Engineer • Backend Developer • Software Engineer (Fresher/Intern)
+🎓 Final-year B.Tech student in Computer Science & Engineering with strong hands-on experience building production-grade backend systems<br>
+☕ Backend-focused Java Developer specializing in Java, Spring Boot, Spring Security, and RESTful API design, with a deep interest in scalable, low-latency, and secure server-side architectures<br>
+🔐 Experienced in designing and implementing secure authentication & authorization using JWT and OAuth2, along with role-based access control and API hardening best practices<br>
+🏗️ Strong foundation in backend system design, including layered architecture, database modeling, transactional workflows, concurrency handling, caching, and asynchronous processing<br>
+🛠️ Hands-on experience with Java, Spring Boot, JPA/Hibernate, PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ, Docker, Kubernetes, and Git, gained through internships and real-world projects<br>
+🚀 Built and deployed real-world backend applications such as scalable Movie Ticket Booking Systems, secure E-Commerce Backend Platforms, and role-based Job Portal Systems<br>
+📈 Focused on writing clean, maintainable, and testable code, following industry best practices, with continuous learning in system design, performance optimization, and DevOps-friendly development<br>
+🔍 Actively seeking opportunities as: Java Backend Engineer • Backend Developer • Software Engineer (Intern / Fresher)
 
 
 ## 🌐 Socials:
