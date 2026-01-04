@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Final Year B.Tech student specializing in Computer Science (Data Science)<br>☕ Backend-focused developer with strong interest in Java, Spring Boot, and scalable backend systems<br>🧩 Passionate about designing RESTful APIs, secure authentication systems, and clean service-layer architectures<br>🛠️ Hands-on experience with Java, Spring Boot, SQL (PostgreSQL/MySQL), REST APIs, JWT, and Git<br>🏗️ Familiar with backend system design concepts including layered architecture, database modeling, and API security<br>🚀 Actively building real-world backend projects such as movie ticket booking systems, e-commerce platforms, and role-based applications<br>📈 Focused on writing clean, maintainable code and becoming industry-ready through continuous learning<br><br><br>🔍 Looking for: Java Backend Engineer • Backend Developer • Software Engineer (Fresher/Intern)
+🎓 Final Year B.Tech student majoring in Computer Science<br>☕ Backend-focused developer with strong interest in Java, Spring Boot, and scalable backend systems<br>🧩 Passionate about designing RESTful APIs, secure authentication systems, and clean service-layer architectures<br>🛠️ Hands-on experience with Java, Spring Boot, SQL (PostgreSQL/MySQL), REST APIs, JWT, and Git<br>🏗️ Familiar with backend system design concepts including layered architecture, database modeling, and API security<br>🚀 Actively building real-world backend projects such as movie ticket booking systems, e-commerce platforms, and role-based applications<br>📈 Focused on writing clean, maintainable code and becoming industry-ready through continuous learning<br><br><br>🔍 Looking for: Java Backend Engineer • Backend Developer • Software Engineer (Fresher/Intern)
 
 
 ## 🌐 Socials:
@@ -21,4 +21,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ayush-mishra7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
