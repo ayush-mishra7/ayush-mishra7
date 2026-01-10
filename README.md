@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| 🎓 Final-year B.Tech student in Computer Science & Engineering with a strong focus on backend and full-stack development <br><br> ☕ Java full-stack developer experienced in Spring Boot, REST APIs, and secure backend design <br><br> 🔐 JWT & OAuth2 authentication, role-based access control, and clean API architecture <br><br> 🏗️ Strong foundation in backend system design, transactions, caching, and asynchronous processing <br><br> 🛠️ Java, Spring Boot, PostgreSQL, Redis, Kafka, Docker <br><br> 🚀 Built AuthX, OMS, and Resume Analyzer systems | <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right" /> |
+| ☕ Java full-stack developer experienced in Spring Boot, REST APIs, and secure backend design <br><br> 🔐 JWT & OAuth2 authentication, role-based access control, and clean API architecture <br><br> 🏗️ Strong foundation in backend system design, transactions, caching, and asynchronous processing <br><br> 🛠️ Java, Spring Boot, PostgreSQL, Redis, Kafka, Docker <br><br> 🚀 Built AuthX, OMS, and Resume Analyzer systems | <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right" /> |
 
 
 ## 🌐 Socials:
