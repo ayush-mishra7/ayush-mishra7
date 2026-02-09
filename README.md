@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| 🤖 AI-focused full stack developer working with React, Django, and Python to build intelligent, production-ready systems <br><br> 🔐 JWT-based authentication, role-based access control, and clean REST API design <br><br> 🏗️ Strong foundation in backend system design, caching, and asynchronous processing <br><br> 🧠 Machine learning with scikit-learn for prediction and data-driven insights <br><br> 🛠️ Python, Django, React, PostgreSQL, Redis, Docker, Kubernetes <br><br> 🚀 Building full-stack AI systems that combine data, ML models, and scalable web architecture | <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right" /> |
+| 🤖 AI-focused full stack developer working with React, Spring Boot / Django, and Java / Python to build intelligent, production-ready systems <br><br> 🔐 JWT-based authentication, role-based access control, and clean REST API design <br><br> 🏗️ Strong foundation in backend system design, caching, and asynchronous processing <br><br> 🧠 Machine learning with scikit-learn for prediction and data-driven insights <br><br> 🛠️ Python, Django, React, PostgreSQL, Redis, Docker, Kubernetes <br><br> 🚀 Building full-stack AI systems that combine data, ML models, and scalable web architecture | <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right" /> |
 
 
 ## 🌐 Socials:
